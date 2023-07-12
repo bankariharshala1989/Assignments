@@ -1,0 +1,5 @@
+Strings are stored on the heap area in a separate memory location known 
+as String Constant pool.
+String constant pool: It is a separate block of memory where all the String variables 
+are held. String str1 = "Hello"; directly, then JVM creates a String object with 
+the given value in a String constant pool.
