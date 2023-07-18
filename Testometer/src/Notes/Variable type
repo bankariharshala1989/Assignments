@@ -1,0 +1,3 @@
+Q. which variable type is not defined by default? instance, local or static ?
+Ans -> There is no default value for local variables, so local variables should be declared
+		 and an initial value should be assigned before the first use.
