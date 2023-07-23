@@ -1,0 +1,5 @@
+Write the visibility of all four access modifiers? public, private, default and protected.
+public -> Visible in all classes
+protected -> visible within package + inherit class
+default -> visible in package
+private -> visible in class
