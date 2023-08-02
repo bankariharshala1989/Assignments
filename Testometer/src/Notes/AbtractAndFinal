@@ -1,0 +1,3 @@
+Can abstract class be final in Java? 
+Ans - No. In abstract class allow "Is A Relationship" and in final class allow "HAS A Relationship"
+	Final and abstract together not allowed
